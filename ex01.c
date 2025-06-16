@@ -10,4 +10,4 @@ int main(){
     }
     return 0;
 }
-// Kết quả độ phức tạp là O(n) tại vì
+// Kết quả độ phức tạp là O(n) tại vì mảng duyệt qua 1 vòng lặp chạy đến n ( lặp lại n lần ) => O(n)
